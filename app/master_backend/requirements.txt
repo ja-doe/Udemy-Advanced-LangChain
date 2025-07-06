@@ -10,7 +10,7 @@ python-dotenv
 postgres
 psycopg2-binary
 pgvector
-nemoguardrails[openai]==0.8.2
+nemoguardrails[openai]==0.14.0
 sentence_transformers
 langfuse
 tabulate
